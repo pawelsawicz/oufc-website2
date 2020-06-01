@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OUFC</title>
+    <link>https://example.com/</link>
+    <description>Recent content on OUFC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President&#39;s Welcome</title>
+      <link>https://example.com/posts/president-welcome/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/president-welcome/</guid>
+      <description>Welcome to the Oxford University Fencing Club website!
+Founded in 1891, OUFC is one of Britain’s oldest and most successful fencing clubs. The club caters for all levels, from beginners to international.
+Foil, epee and sabre training are all on offer at the club. Advanced and intermediate fencers receive expert tuition from our club coach, Tomek Walicki, who leads a weekly training session and offers individual lessons throughout the week. In addition there are two club nights every week with a mixture of coached, structured and free fencing.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>The Oxford University Fencing Club is one of the oldest surviving fencing clubs in the country, certainly one of the oldest outside of London. Throughout its history, it has played an important role in British fencing, and its history reflects that of the sport in general in England. The club was founded in 1891, placing it at the forefront of the revival of fencing as a sport in Great Britain which really began in the 1890’s.</description>
+    </item>
+    
+  </channel>
+</rss>

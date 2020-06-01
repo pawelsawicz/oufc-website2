@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on OUFC</title>
+    <link>https://example.com/tags/markdown/</link>
+    <description>Recent content in markdown on OUFC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President&#39;s Welcome</title>
+      <link>https://example.com/posts/president-welcome/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/president-welcome/</guid>
+      <description>Welcome to the Oxford University Fencing Club website!
+Founded in 1891, OUFC is one of Britain’s oldest and most successful fencing clubs. The club caters for all levels, from beginners to international.
+Foil, epee and sabre training are all on offer at the club. Advanced and intermediate fencers receive expert tuition from our club coach, Tomek Walicki, who leads a weekly training session and offers individual lessons throughout the week. In addition there are two club nights every week with a mixture of coached, structured and free fencing.</description>
+    </item>
+    
+  </channel>
+</rss>

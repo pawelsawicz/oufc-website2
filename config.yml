@@ -10,3 +10,4 @@ params:
   description: Example site for the Hugo's Blogpaper theme
 title: OUFC
 theme: Blogpaper
+publishDir: docs
