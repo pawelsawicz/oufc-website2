@@ -1,0 +1,4 @@
+---
+banner:
+  src: logo.png
+---
