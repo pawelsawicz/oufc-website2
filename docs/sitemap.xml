@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/posts/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/president-welcome/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/posts/president-welcome/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/tags/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website2/categories/</loc>
   </url>
   
 </urlset>
